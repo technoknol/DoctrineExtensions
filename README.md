@@ -74,4 +74,4 @@ Notes
 Troubleshooting
 ---------------
 
-Issues are disabled on this repository, if a custom DQL function that you want isn't provided, or does not support the arguments you want to pass, pull requests are open and we would love to have your contributions.
+Open a new Issue on this repository, if a custom DQL function that you want isn't provided, or does not support the arguments you want to pass, pull requests are open, and we would love to have your contributions.
