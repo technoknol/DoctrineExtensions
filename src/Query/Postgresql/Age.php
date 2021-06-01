@@ -25,7 +25,15 @@ class Age extends FunctionNode
      */
     public function getSql(SqlWalker $sqlWalker): string
     {
-        return 'AGE(' . $this->date1->dispatch($sqlWalker) . ', ' . $this->date2->dispatch($sqlWalker) . ')';
+        $result = 'AGE(' . $this->date1->dispatch($sqlWalker);
+
+        if ($this->date2) {
+            $result .= ', ' . $this->date2->dispatch($sqlWalker);
+        }
+
+        $result .= ')';
+
+        return $result;
     }
 
     /**
