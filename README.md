@@ -1,12 +1,12 @@
 DoctrineExtensions
 ==================
 
-[![Build Status](https://img.shields.io/badge/branch-master-blue.svg)](https://github.com/beberlei/DoctrineExtensions/tree/master)
-[![Build Status](https://github.com/beberlei/DoctrineExtensions/workflows/Tests/badge.svg)](https://github.com/beberlei/DoctrineExtensions/actions)
-[![Packagist](https://img.shields.io/packagist/v/beberlei/doctrineextensions.svg?label=stable)](https://packagist.org/packages/beberlei/doctrineextensions)
-[![Packagist](https://img.shields.io/packagist/dd/beberlei/doctrineextensions.svg?label=⬇)](https://packagist.org/packages/beberlei/doctrineextensions)
-[![Packagist](https://img.shields.io/packagist/dm/beberlei/doctrineextensions.svg?label=⬇)](https://packagist.org/packages/beberlei/doctrineextensions)
-[![Packagist](https://img.shields.io/packagist/dt/beberlei/doctrineextensions.svg?label=⬇)](https://packagist.org/packages/beberlei/doctrineextensions)
+[![Build Status](https://img.shields.io/badge/branch-development-blue.svg)](https://github.com/technoknol/DoctrineExtensions/tree/development)
+[![Build Status](https://github.com/technoknol/DoctrineExtensions/workflows/Tests/badge.svg)](https://github.com/technoknol/DoctrineExtensions/actions)
+[![Packagist](https://img.shields.io/packagist/v/technoknol/doctrineextensions.svg?label=stable)](https://packagist.org/packages/technoknol/doctrineextensions)
+[![Packagist](https://img.shields.io/packagist/dd/technoknol/doctrineextensions.svg?label=⬇)](https://packagist.org/packages/technoknol/doctrineextensions)
+[![Packagist](https://img.shields.io/packagist/dm/technoknol/doctrineextensions.svg?label=⬇)](https://packagist.org/packages/technoknol/doctrineextensions)
+[![Packagist](https://img.shields.io/packagist/dt/technoknol/doctrineextensions.svg?label=⬇)](https://packagist.org/packages/technoknol/doctrineextensions)
 
 _A Fork of `beberlei/doctrineextensions` package._
 
