@@ -32,7 +32,7 @@ To install this library, run the command below and you will get the latest
 version:
 
 ```
-composer require beberlei/doctrineextensions
+composer require technoknol/doctrineextensions
 ```
 
 If you want to run phpunit:
