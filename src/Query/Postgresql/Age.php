@@ -9,8 +9,12 @@ use Doctrine\ORM\Query\QueryException;
 use Doctrine\ORM\Query\SqlWalker;
 
 /**
- * Class Age
- * @package DoctrineExtensions\Query\Postgresql
+ * @example SELECT AGE('2012-03-05');
+ * @example SELECT AGE('2012-03-05', '2010-04-01');
+ *
+ * @link https://www.postgresql.org/docs/8.4/functions-datetime.html
+ *
+ * @author technoknol github.com/technoknol
  */
 class Age extends FunctionNode
 {
